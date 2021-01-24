@@ -10,7 +10,12 @@ library(xml2)
 library(beepr)
 library(here)
 
+####Setup RSelenium server
+rD = rsDriver(chromever = "74.0.3729.6")
+remDr = rD$client
+
 ####We're going to create a bunch of functions to extract the data from each house
+
 
 get_headers = function(x){x$getElementText()} #this function is the lynchpin for the next function
 
