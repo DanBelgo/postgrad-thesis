@@ -9,7 +9,7 @@ library(RSelenium)
 library(xml2)
 library(beepr)
 library(here)
-
+#
 ####Setting up the Scrapper####
 
 # We define the first index page 
