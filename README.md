@@ -5,8 +5,8 @@
 
 In this project, I scrapped the data from over nine thousand houses located within the Girona province. The objective as to gather information about the current situation of Girona's real estate: you can see how different house types compare in their price ranges, or how location affects the median price of a property.
 
-Check the interactive data visualization [here](https://public.flourish.studio/visualisation/3139655/)
-
+**Check the interactive data visualization [here](https://public.flourish.studio/visualisation/3139655/)
+**
 Also, I included a model that acts as a price appraiser. To get an appraisal, indicate:
 
 * Square meters
